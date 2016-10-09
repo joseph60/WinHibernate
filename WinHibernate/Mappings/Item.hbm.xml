@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="WinHibernate"
+                   namespace="WinHibernate.Domain">
+  <class name="Item">
+    <id name="Itemid" column="ItemId">
+    <generator class="guid" />
+    </id>
+    <property name="Productid"/>
+    <property name="Supplier"/>
+    <property name="Listprice">
+    </property>
+    <property name="Unitcost">
+    </property>
+    <property name="Status" >
+    </property>
+    <property name="Name">
+
+    </property>
+    <property name="Image">
+
+    </property>
+  </class>
+</hibernate-mapping>
