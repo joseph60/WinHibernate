@@ -1,6 +1,6 @@
 namespace WinHibernate.Domain
 {
-    //check modification
+    //test modification
 
     public class Item {
         public virtual string Itemid { get; set; }
