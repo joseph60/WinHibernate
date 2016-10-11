@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHibernate", "WinHibernat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHibernateUnitTest", "WinHibernateUnitTest\WinHibernateUnitTest.csproj", "{03A67646-B0BC-49FB-A067-2344B5343011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllDemo", "DllDemo\DllDemo.csproj", "{9C75875D-C057-4B4E-AB63-E65FEBE35FC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03A67646-B0BC-49FB-A067-2344B5343011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A67646-B0BC-49FB-A067-2344B5343011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A67646-B0BC-49FB-A067-2344B5343011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C75875D-C057-4B4E-AB63-E65FEBE35FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C75875D-C057-4B4E-AB63-E65FEBE35FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C75875D-C057-4B4E-AB63-E65FEBE35FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C75875D-C057-4B4E-AB63-E65FEBE35FC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
